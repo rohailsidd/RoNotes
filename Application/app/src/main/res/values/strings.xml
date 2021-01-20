@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoNotes</string>
+    <string name="whats_in_your_mind">Tap on the screen to start typing...</string>
+    <string name="share_note">Share Note</string>
+    <string name="delete_notes">Delete Notes</string>
+    <string name="no_notes">Tap + to add a note</string>
+</resources>
